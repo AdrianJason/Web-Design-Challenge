@@ -1,0 +1,12 @@
+
+
+
+
+#vis_images {
+    display: grid; 
+    grid-gap: .5em
+    grid-template-areas: 
+    ""
+}
+
+
